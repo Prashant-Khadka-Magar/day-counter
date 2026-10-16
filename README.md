@@ -25,7 +25,7 @@ Displays `DAY 001`, `DAY 002`, `DAY 003`, etc., based on a configurable starting
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/day-counter.git
+git clone https://github.com/Prashant-Khadka-Magar/day-counter.git
 cd day-counter
 ```
 
