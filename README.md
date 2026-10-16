@@ -4,6 +4,8 @@ A minimalist, automatically updating day counter wallpaper for Fedora GNOME, bui
 
 Displays `DAY 001`, `DAY 002`, `DAY 003`, etc., based on a configurable starting date.
 
+![alt text](image.png)
+
 ## Features
 
 - Tokyo Night-inspired dark theme
@@ -124,3 +126,4 @@ The wallpaper updates daily while the user systemd manager is active.
 - systemd
 
 Built as a personal TypeScript learning project.
+
